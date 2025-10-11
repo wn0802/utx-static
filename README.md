@@ -1,9 +1,3 @@
-# UTX CDN Files
+# UTX CDN 静态资源链接 自动化报告使用
 
-![](https://cdn.jsdelivr.net/gh/openutx/static/image/utx.png)
-
-## 简介
-
-[![](https://data.jsdelivr.com/v1/package/gh/openutx/static/badge)](https://www.jsdelivr.com/package/gh/openutx/static)
-
->utx static resources
+![](https://fastly.jsdelivr.net/gh/wn0802/utx-static/)
